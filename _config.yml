@@ -1,0 +1,5 @@
+title: J.Case
+description: Software engineer & maker
+url: https://riverful.github.io
+include: [".well-known"]
+exclude: ["README.md", "LICENSE"]
