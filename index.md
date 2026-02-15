@@ -8,7 +8,7 @@ path: index.md
 ---
 
 I build things that work — from APIs and automation tools to personal dashboards.
-Claude code + happy-coder newbie. Interested in clean code, smart home, and making everyday life a little more efficient and better.
+Claude code + happy-coder + Obsidian newbie. Interested in clean code, smart home, and making everyday life a little more efficient and better.
 
 ## Now
 
