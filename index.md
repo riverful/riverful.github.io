@@ -14,7 +14,9 @@ Claude code + happy-coder + Obsidian newbie. Interested in clean code, smart hom
 
 - Android Camera HAL/vendor Software Engineer (20+ years)
 - Building vehicle control tools with Tesla Fleet API
-- Automating daily workflows with Claude Code
+- Managing personal database with Claude Code + Obsidian
+- Automating daily workflows for consuming trend digest
+- Cleaned up +50000 old mail and database
 - Exploring smart home integrations
 
 ## Stack
