@@ -19,10 +19,8 @@ Claude code + happy coder newbie. Interested in clean code, smart home, and maki
 ## Stack
 
 <div class="stack">
+<span class="stack-tag">C++</span>
 <span class="stack-tag">Python</span>
-<span class="stack-tag">TypeScript</span>
-<span class="stack-tag">FastAPI</span>
-<span class="stack-tag">asyncio</span>
 <span class="stack-tag">REST API</span>
 <span class="stack-tag">Git</span>
 </div>
