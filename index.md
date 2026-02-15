@@ -8,10 +8,11 @@ path: index.md
 ---
 
 I build things that work — from APIs and automation tools to personal dashboards.
-Claude code + happy coder newbie. Interested in clean code, smart home, and making everyday life a little more efficient and better.
+Claude code + happy-coder newbie. Interested in clean code, smart home, and making everyday life a little more efficient and better.
 
 ## Now
 
+- Android Camera HAL/vendor Software Engineer (20+ years)
 - Building vehicle control tools with Tesla Fleet API
 - Automating daily workflows with Claude Code
 - Exploring smart home integrations
